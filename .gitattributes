@@ -6,6 +6,9 @@
 /demucs-models/955717e8-8726e21a.th filter=lfs diff=lfs merge=lfs -text
 /ffmpeg-9.0.1-full_build-shared/bin/avcodec-63.dll filter=lfs diff=lfs merge=lfs -text
 /ffmpeg-9.0.1-full_build-shared/bin/avfilter-12.dll filter=lfs diff=lfs merge=lfs -text
+/ffmpeg-9.0.2-essentials_build/bin/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
+/ffmpeg-9.0.2-essentials_build/bin/ffplay.exe filter=lfs diff=lfs merge=lfs -text
+/ffmpeg-9.0.2-essentials_build/bin/ffprobe.exe filter=lfs diff=lfs merge=lfs -text
 /node-v24.15.0-win-x64/node.exe filter=lfs diff=lfs merge=lfs -text
 /node-v24.15.0-win-x64/node_modules/.opencode-ai-TZeQqI2a/node_modules/opencode-windows-x64/bin/opencode.exe filter=lfs diff=lfs merge=lfs -text
 /node-v24.15.0-win-x64/node_modules/opencode-ai/node_modules/opencode-windows-x64-baseline/bin/opencode.exe filter=lfs diff=lfs merge=lfs -text
